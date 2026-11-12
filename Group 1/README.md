@@ -11,3 +11,7 @@ Facts:
 4. The book had 2 sequels!
 
 5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Underland".
+
+6.  Alice was actually based on a real person, Alice Liddell.
+
+7.  There have been roughly 40 TV and Movie adaptations of "Alice in Wonderland".
