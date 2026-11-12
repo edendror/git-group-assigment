@@ -12,13 +12,10 @@ Facts:
 
 5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Underland".
 
+6.  Alice was actually based on a real person, Alice Liddell.
 
+7.  There have been roughly 40 TV and Movie adaptations of "Alice in Wonderland".
 
+8. The story was originally invented during a boat trip on the River Thames in 1862 to entertain three young sisters, including Alice Liddell, who inspired the main character.
 
-
-
-
-
-7. The story was originally invented during a boat trip on the River Thames in 1862 to entertain three young sisters, including Alice Liddell, who inspired the main character.
-
-8. Lewis Carroll included himself in the story as the Dodo, while other characters were inspired by people who joined him on the original boat trip.fa
+9. Lewis Carroll included himself in the story as the Dodo, while other characters were inspired by people who joined him on the original boat trip.fa
