@@ -2,15 +2,15 @@
 
 Facts:
 
-1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
+1. "Alice's Adventures in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
 
-2. Lewis Carroll was the pen name of James Brown (not the singer!)
+2. Lewis Carroll was the pen name of Charles Lutwidge Dodgson.
 
 3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures.
 
-4. The book had 2 sequels!
+4. The book had 1 sequel, “Through the Looking-Glass” 
 
-5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Underland".
+5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Wonderland"
 
 6.  Alice was actually based on a real person, Alice Liddell.
 
@@ -18,4 +18,4 @@ Facts:
 
 8. The story was originally invented during a boat trip on the River Thames in 1862 to entertain three young sisters, including Alice Liddell, who inspired the main character.
 
-9. Lewis Carroll included himself in the story as the Dodo, while other characters were inspired by people who joined him on the original boat trip.fa
+9. Lewis Carroll included himself in the story as the Dodo, while other characters were inspired by people who joined him on the original boat
